@@ -10,12 +10,12 @@ Diagrama de Referencia
 
 # Components
 
-| ----------------------------------------|
-| **ArduinoUno**                          |
-| **Modulo HC-05**                        |
-| **Diodos Led(Rojo, Verde, Amarillo)**   |
-| **Resistencias de 230 Ohms**            |
-| **Jumpers(Cables)**                     |
+| ----------------------------------------
+| **ArduinoUno**                          
+| **Modulo HC-05**                        
+| **Diodos Led(Rojo, Verde, Amarillo)**   
+| **Resistencias de 230 Ohms**            
+| **Jumpers(Cables)**                     
 
 # A Tomar En Cuenta
 ## Debido a que uso la Libreria SoftwareSerial, se liberaron los pines 0 (RX) y 1 (TX) para cargar código sin necesidad de Desconectarlos durante la subida del codigo al Arduino(Ya que de lo contrario habrian problemas con el Puerto USB, impidiendo la Subida del Codigo).
