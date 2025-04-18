@@ -16,9 +16,26 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 
 <p/>
 
+## Como Usar desde el Software Bluetooth
+<br>
+
+- Simplemente tienes que conectar el Arduino a Corriente y Vincularlo desde el Software Usado
+- Para Encencer y/o Apagar uno de los Leds unicamente tienes que escribir su Color en La Terminal o Precionar el Boton Configurado Previamente en el Software a Utilizar
+
+Si quiere Encender Todos Escriba:
+```bash
+Todos
+```
+
+Si quiere Apagar Todos Escriba:
+```bash
+Ninguno
+```
+<p/>
+
 ## A Tomar En Cuenta
 - Debido a que uso la Libreria SoftwareSerial, se liberaron los pines 0 (RX) y 1 (TX) para cargar código sin necesidad de Desconectarlos durante la subida del codigo al Arduino(Ya que de lo contrario habrian problemas con el Puerto USB, impidiendo la Subida del Codigo).
-- Es necesaria una Aplicacion para Controlar todo Esto desde tu un Dispositivo con Bluetooth, unicamente lo Probe en Android y la unica Pieza de Software que me dejaba conectar correctamente el Modulo HC-05 era [Serial Bluetooth Terminal][Serial Bluetooth Terminal]
+- Es necesaria una Aplicacion para Controlar todo Esto desde tu un Dispositivo con Bluetooth, unicamente lo Probe en Android y la unica Pieza de Software que me dejaba conectar correctamente el Modulo HC-05 era [Serial Bluetooth Terminal][Serial Bluetooth Terminal], pero en caso de Usar otro Software se debera de Configurar la entrada usada para Usar por GUI o Modificar el Codigo.
 
 <p/>
 
