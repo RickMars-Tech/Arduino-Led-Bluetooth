@@ -7,7 +7,7 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 
 # Diagrama de Referencia
 ![](./img/img-referencia.png)
-
+![](./img/img1.png)
 <p/>
 
 # Componentes
