@@ -5,11 +5,11 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 
 </div>
 
-Diagrama de Referencia
+# Diagrama de Referencia
 ![](./img/img-referencia.png)
 
+<p/>
 # Components
-
 | *ArduinoUno*                          |
 | *Modulo HC-05*                        |
 | *Diodos Led(Rojo, Verde, Amarillo)*   |
