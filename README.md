@@ -11,7 +11,7 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 <p/>
 
 # Componentes
-| 󰘚                                     |
+| 👾                                     |
 | ------------------------------------- |
 | *ArduinoUno*                          |
 | *Modulo HC-05*                        |
