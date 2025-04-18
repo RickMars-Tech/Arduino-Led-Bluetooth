@@ -9,16 +9,19 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 ![](./img/img-referencia.png)
 
 <p/>
-# Components
+
+# Componentes
 | *ArduinoUno*                          |
 | *Modulo HC-05*                        |
 | *Diodos Led(Rojo, Verde, Amarillo)*   |
 | *Resistencias de 230 Ohms*            |
 | *Jumpers(Cables)*                     |
 
+<p/>
+
 # A Tomar En Cuenta
-## Debido a que uso la Libreria SoftwareSerial, se liberaron los pines 0 (RX) y 1 (TX) para cargar código sin necesidad de Desconectarlos durante la subida del codigo al Arduino(Ya que de lo contrario habrian problemas con el Puerto USB, impidiendo la Subida del Codigo).
-## Es necesaria una Aplicacion para Controlar todo Esto desde tu un Dispositivo con Bluetooth, unicamente lo Probe en Android y la unica Pieza de Software que me dejaba conectar correctamente el Modulo HC-05 era [Serial Bluetooth Terminal][Serial Bluetooth Terminal]
+- Debido a que uso la Libreria SoftwareSerial, se liberaron los pines 0 (RX) y 1 (TX) para cargar código sin necesidad de Desconectarlos durante la subida del codigo al Arduino(Ya que de lo contrario habrian problemas con el Puerto USB, impidiendo la Subida del Codigo).
+- Es necesaria una Aplicacion para Controlar todo Esto desde tu un Dispositivo con Bluetooth, unicamente lo Probe en Android y la unica Pieza de Software que me dejaba conectar correctamente el Modulo HC-05 era [Serial Bluetooth Terminal][Serial Bluetooth Terminal]
 
 
 
