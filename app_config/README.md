@@ -1,7 +1,8 @@
 <h1 align="center">:Configuracion de Referencia:</h1>
-<p align="center"> 
+
+
 Configuracion de referencia para el Software Serial Bluetooth Terminal][Serial Bluetooth Terminal]
-<p/>
+
 
 ### Esta Unicamente es una Referencia y unicamente busca ser un Ejemplo de configuracion
 
