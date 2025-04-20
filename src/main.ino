@@ -28,7 +28,7 @@ void setup()
   pinMode(12, OUTPUT);       // Configura el pin 12 como salida (LED Verde)
   pinMode(11, OUTPUT);       // Configura el pin 11 como salida (LED Amarillo)
 
-  Serial.println("Sistema listo. Usa el monitor serial o el Bluetooth para enviar comandos.");
+  //Serial.println("Sistema listo. Usa el monitor serial o el Bluetooth para enviar comandos.");
 }
 
 void loop()
