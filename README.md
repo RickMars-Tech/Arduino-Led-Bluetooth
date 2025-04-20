@@ -6,13 +6,13 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 <p/>
 
 ## Componentes Sugeridos
-| 👾                                     |
+| 👾                                    |
 | ------------------------------------- |
 | *ArduinoUno*                          |
 | *Modulo HC-05*                        |
-| *Diodos Led(Rojo, Verde, Amarillo)*   |
+| *Diodos Led (Rojo, Verde, Amarillo)*  |
 | *Resistencias de 230 Ohms*            |
-| *Jumpers(Cables)*                     |
+| *Jumpers (Cables)*                    |
 
 <p/>
 
