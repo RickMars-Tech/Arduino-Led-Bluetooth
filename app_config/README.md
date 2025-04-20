@@ -5,9 +5,9 @@ Configuracion de referencia para el Software [Serial Bluetooth Terminal][Serial 
 
 
 ### Esta Unicamente es una Referencia y unicamente busca ser un Ejemplo de configuracion
+![](../img/ref-sof1.png)
+![](../img/ref-sof2.png)
+![](../img/ref-sof3.png)
 
-![](./img/ref-sof1.png)
-![](./img/ref-sof2.png)
-![](./img/ref-sof3.png)
 
 [Serial Bluetooth Terminal]: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=es_MX&pli=1
