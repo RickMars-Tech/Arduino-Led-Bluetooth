@@ -35,12 +35,13 @@ Ninguno
 
 ## A Tomar En Cuenta
 - Debido a que uso la Libreria SoftwareSerial, se liberaron los pines 0 (RX) y 1 (TX) para cargar código sin necesidad de Desconectarlos durante la subida del codigo al Arduino(Ya que de lo contrario habrian problemas con el Puerto USB, impidiendo la Subida del Codigo), por lo que deberas de Conectar RX en el pin 2 y TX en el pin 3.
-- Es necesaria una Aplicacion para Controlar todo Esto desde tu un Dispositivo con Bluetooth, unicamente lo Probe en Android y la unica Pieza de Software que me dejaba conectar correctamente el Modulo HC-05 era [Serial Bluetooth Terminal][Serial Bluetooth Terminal], pero en caso de Usar otro Software se debera de Configurar la entrada usada para Usar por GUI o Modificar el Codigo.
+- Es necesaria una Aplicacion para Controlar todo Esto desde tu un Dispositivo con Bluetooth, unicamente lo Probe en Android y la unica Pieza de Software que me dejaba conectar correctamente el Modulo HC-05 era [Serial Bluetooth Terminal][Serial Bluetooth Terminal], aqui hay una [Configuracion de Referencia](./app_config/).
 
 <p/>
 
 ## Imagenes
 <p/>
+
 
 ### Diagrama de Referencia
 ![](./img/img-referencia.png)
