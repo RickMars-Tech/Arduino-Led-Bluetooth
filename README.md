@@ -5,14 +5,14 @@ Esta proyecto Tiene el Proposito de Comunicar Correctamente un ArduinoUno(Origin
 
 <p/>
 
-| 💻 Lista de Componentes Sugeridos          |
-| ------------------------------------------ |
-| *ArduinoUno*                               |
-| *Modulo HC-05*                             |
-| *Diodos Led (Rojo, Verde, Amarillo)*       |
-| *3 Resistencias de 230 Ohms para los Leds* |
-| *Dos Resistencias, 1KOhms y 2KOhms*        |
-| *Jumpers (Cables)*                         |
+| 💻 Lista de Componentes Sugeridos                                        |
+| ------------------------------------------------------------------------ |
+| *ArduinoUno*                                                             |
+| *Modulo HC-05*                                                           |
+| *Diodos Led (Rojo, Verde, Amarillo)*                                     |
+| *3 Resistencias de 230 Ohms para los Leds*                               |
+| *Dos Resistencias, 1KOhms y 2KOhms para un divisor de Voltaje del HC-05* |
+| *Jumpers (Cables)*                                                       |
 
 <p/>
 
