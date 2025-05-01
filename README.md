@@ -43,10 +43,10 @@ Ninguno
 <p/>
 
 
-### Diagrama de Referencia
+### Diagrama de Divisor de Voltaje
 ![](./img/img-referencia.png)
 
-### Ejemplo con un Solo LED
+### Ejemplo de configuracion de Leds
 ![](./img/img1.png)
 
 
